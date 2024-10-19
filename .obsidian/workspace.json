@@ -1,0 +1,227 @@
+{
+  "main": {
+    "id": "f051f13519999c27",
+    "type": "split",
+    "children": [
+      {
+        "id": "6d264e17b0cefd71",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "dce937aa8ae4565b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "git/commands.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "commands"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "361e2fd86692db79",
+    "type": "split",
+    "children": [
+      {
+        "id": "067822e10199730a",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "be806eb0117fc5f8",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "e09be24195bd94e6",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": true,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "0cfb9f9837e7c615",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          },
+          {
+            "id": "280d3023a3f39551",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "New tab"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 200
+  },
+  "right": {
+    "id": "2c15367fa7ba8cec",
+    "type": "split",
+    "children": [
+      {
+        "id": "a2626ee3585e6a61",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "c95535458d2d5c8b",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "git/commands.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for commands"
+            }
+          },
+          {
+            "id": "d1b1c107c2e0c97a",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "git/commands.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from commands"
+            }
+          },
+          {
+            "id": "bb56da0e77ae1fb7",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "649ee83ba199438b",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "git/commands.md"
+              },
+              "icon": "lucide-list",
+              "title": "Outline of commands"
+            }
+          },
+          {
+            "id": "8f97d8d57e29399a",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-archive",
+              "title": "All properties"
+            }
+          }
+        ],
+        "currentTab": 3
+      }
+    ],
+    "direction": "horizontal",
+    "width": 200,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "dce937aa8ae4565b",
+  "lastOpenFiles": [
+    "git/remote commands.md",
+    "4.4 Errors.md",
+    "2.1 package main and testing.md",
+    "4.3 Defer.md",
+    "4.2 Pointers.md",
+    "4.1 interfaces.md",
+    "4 Structure.md",
+    "3 Collections.md",
+    "git/commands.md",
+    "99 miscellinous.md",
+    "2.0 functions and methods.md",
+    "0.1 Intro to GO.md",
+    "0.2 Conditional and loops.md",
+    "1.0 Floating type.md",
+    "2.2 First class functions.md",
+    "git",
+    "1.2 Multilingual text.md",
+    "1.1 whole numbers.md",
+    "0.3 Variable scope.md",
+    "Welcome.md",
+    "Sql.md",
+    "images/eer_diagram_mysql_1.png",
+    "0.1 Basics.md",
+    "0.1 Basics.pdf",
+    "images/aggregation_1.png",
+    "images/eer_model_specilization_1.png",
+    "images/Screenshot_2024-07-17_100427.png",
+    "images/Screenshot_2024-07-16_060207.png",
+    "images/Screenshot 2024-07-16 053548.png",
+    "Note.md",
+    "1.0 Bipartite graph.md",
+    "1.5 Word Ladder.md",
+    "1.8 Bellman Ford Algorithm.md",
+    "1.1 Cycle detection directed graph.md"
+  ]
+}
