@@ -13,15 +13,30 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "git/commands.md",
+                "file": "web programming/0.1.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "commands"
+              "title": "0.1"
+            }
+          },
+          {
+            "id": "a5ae60ad5ed124f2",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "4.5 Mutexes.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "4.5 Mutexes"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -103,7 +118,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "git/commands.md",
+                "file": "4.5 Mutexes.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -113,7 +128,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for commands"
+              "title": "Backlinks for 4.5 Mutexes"
             }
           },
           {
@@ -122,12 +137,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "git/commands.md",
+                "file": "4.5 Mutexes.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from commands"
+              "title": "Outgoing links from 4.5 Mutexes"
             }
           },
           {
@@ -149,10 +164,10 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "git/commands.md"
+                "file": "4.5 Mutexes.md"
               },
               "icon": "lucide-list",
-              "title": "Outline of commands"
+              "title": "Outline of 4.5 Mutexes"
             }
           },
           {
@@ -187,8 +202,12 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "dce937aa8ae4565b",
+  "active": "a5ae60ad5ed124f2",
   "lastOpenFiles": [
+    "web programming/0.1.md",
+    "4.5 Mutexes.md",
+    "web programming",
+    "git/commands.md",
     "git/remote commands.md",
     "4.4 Errors.md",
     "2.1 package main and testing.md",
@@ -197,7 +216,6 @@
     "4.1 interfaces.md",
     "4 Structure.md",
     "3 Collections.md",
-    "git/commands.md",
     "99 miscellinous.md",
     "2.0 functions and methods.md",
     "0.1 Intro to GO.md",
@@ -220,8 +238,6 @@
     "images/Screenshot 2024-07-16 053548.png",
     "Note.md",
     "1.0 Bipartite graph.md",
-    "1.5 Word Ladder.md",
-    "1.8 Bellman Ford Algorithm.md",
-    "1.1 Cycle detection directed graph.md"
+    "1.5 Word Ladder.md"
   ]
 }
